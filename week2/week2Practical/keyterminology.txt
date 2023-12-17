@@ -1,0 +1,12 @@
+TASK: Look at each of the phrases below and ensure you understand what each of these
+means. For any that you do not understand, do a little research to find a definition of each
+term. This research may involve looking back over these notes, or the associated lecture
+notes. It may also involve searching for these terms on the Internet.
+
+● Assignment: A task or piece of work allocated to someone as part of a job or course of study.
+● Data-type: A data type is an attribute associated with a piece of data that tells a computer system how to interpret its value. Understanding data types ensures that data is collected in the preferred format and the value of each property is as expected.
+● Argument: An argument is a way for you to provide more information to a function. The function can then use that information as it runs, like a variable. Said differently, when you create a function, you can pass in data in the form of an argument, also called a parameter. 
+● Indexing: In Python programming, indexing refers to the process of accessing individual elements within a data structure, such as a list or string, by using their position, with indexing starting at 0.
+● Slicing: In Python programming, slicing refers to the technique of extracting a portion (subsequence) of a sequence, such as a string, list, or tuple, by specifying a start index, an end index (exclusive), and an optional step.
+● Mutable: Mutable refers to objects or data structures that can be modified or altered after their creation, allowing changes to their internal state.
+● Immutable: Immutable refers to objects whose state or value cannot be modified after they are created, and any operation that appears to modify the object actually creates a new object with the modified value.
