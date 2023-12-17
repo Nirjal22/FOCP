@@ -1,0 +1,20 @@
+Key terminology: 
+
+
+1. Module:
+   A module in Python is a file containing Python definitions and statements. It allows you to logically organize your Python code, making it reusable and easier to maintain. Modules can include functions, classes, and variables.
+
+2. The Python Standard Library:
+   The Python Standard Library is a collection of modules and packages that come with the Python programming language. These modules provide a wide range of functionalities, such as file I/O, networking, regular expressions, and more, making it a powerful resource for Python developers.
+
+3. Formal Parameters:
+   Formal parameters are variables listed in the function definition. They act as placeholders for the actual values (arguments) that will be passed to the function when it is called. Formal parameters are used to receive and process input within the function.
+
+4. Actual Parameters (Argument Values):
+   Actual parameters, also known as arguments, are the values passed to a function when it is called. These values are assigned to the corresponding formal parameters within the function, allowing it to operate on specific data.
+
+5. Default and Keyword Arguments:
+   Default arguments in a function have predefined values and are used if the caller does not provide a corresponding value. Keyword arguments are passed with the parameter name explicitly mentioned, allowing flexibility in the order of argument assignment and providing clarity in function calls.
+
+6. Lambda Expression:
+   A lambda expression in Python is an anonymous, inline function defined using the `lambda` keyword. It is often used for short, simple operations and is particularly useful in situations where a full function definition is not required. Lambda functions can take any number of arguments but can only have one expression.
