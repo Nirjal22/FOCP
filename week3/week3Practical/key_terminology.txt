@@ -1,0 +1,9 @@
+
+Key Terminology
+
+Relational Operator: A relational operator is a symbol used in programming to compare two values and determine the relationship between them, such as equality (==), inequality (!=), greater than (>), less than (<), etc.
+Logical Operator: Logical operators are symbols used in programming to perform logical operations between two or more Boolean values, including AND (&&), OR (||), and NOT (!), to make decisions based on multiple conditions.
+Operator Chaining: Operator chaining refers to the practice of combining multiple operators in a single expression, allowing concise representation of complex conditions or calculations by evaluating them in a specific order.
+Ternary Operator: The ternary operator is a concise way of writing an if-else statement in a single line, utilizing the syntax `condition ? expression_if_true : expression_if_false` to make decisions based on a Boolean condition.
+Iteration: Iteration, in programming, involves repeating a set of instructions or a block of code multiple times, often using loops like for or while, to efficiently perform tasks such as traversing elements in an array or executing a sequence of statements.
+Nested Loop: A nested loop is a loop structure within another loop, allowing for the repetition of a set of instructions inside the outer loop, commonly used for tasks that require multiple levels of iteration, such as working with 2D arrays or matrices.
