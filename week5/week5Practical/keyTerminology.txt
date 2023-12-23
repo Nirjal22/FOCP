@@ -1,0 +1,20 @@
+TASK: Look at each of the phrases below and ensure you understand what each of these
+means. For any that you do not understand, do a little research to find a definition of each
+term. This research may involve looking back over these notes, or the associated lecture
+notes. It may also involve searching for these terms on the Internet.
+● IDE
+● Module
+● Command Line Arguments
+● Symbol-table
+● Search path
+
+
+1. IDE: Integrated Development Environment; a software suite that combines tools for code editing, debugging, and project management in a unified interface.
+
+2. Module: A file containing Python code, typically organized around a specific functionality, that can be imported and used in other Python scripts.
+
+3. Command Line Arguments: Parameters passed to a program when it is run from the command line, providing additional information or settings.
+
+4. Symbol-table: A data structure that stores information about variables, functions, and other program entities during compilation or interpretation.
+
+5. Search path: A list of directories that an operating system or programming environment searches through to locate executable files or resources.
