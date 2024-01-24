@@ -1,0 +1,30 @@
+Look at each of the phrases below and ensure you understand what each of these
+means. For any that you do not understand, do a little research to find a definition of each
+term. This research may involve looking back over these notes, or the associated lecture
+notes. It may also involve searching for these terms on the Internet.
+● ‘f-string’
+● Format Specifier
+● File modes
+● Binary Files
+● Random Access
+● Exceptions
+
+
+
+1. 'f-string':
+   - An f-string is a feature in Python for formatting strings. It allows you to embed expressions inside string literals, using curly braces `{}`. The expressions are evaluated at runtime and formatted using the format() protocol.
+
+2. Format Specifier:
+   - A format specifier in Python is used within a string to specify how the values should be formatted when using string formatting methods, like `str.format()` or f-strings. It includes details such as precision, alignment, width, and type of the value.
+
+3. File Modes:
+   - File modes in Python indicate the purpose and permissions of opening a file. Common file modes include 'r' (read), 'w' (write), 'a' (append), 'b' (binary), 'x' (exclusive creation), and combinations like 'r+', 'w+', and 'a+' for both reading and writing.
+
+4. Binary Files:
+   - Binary files are files that contain data in a format not human-readable. They may store images, videos, executable programs, or any data that is not plain text. In Python, opening a file in binary mode ('b') is necessary when dealing with binary files.
+
+5. Random Access:
+   - Random access refers to the ability to directly access any element in a sequence, like an array or a file, regardless of its sequential order. In the context of file handling, random access allows you to jump to any part of the file to read or write data without having to go through the entire file sequentially.
+
+6. Exceptions:
+   - Exceptions in Python are events that occur during the execution of a program that disrupts the normal flow of instructions. When an error occurs, Python raises an exception, and the program can handle it using try-except blocks. Common exceptions include `ValueError`, `TypeError`, and `FileNotFoundError`. Handling exceptions helps in writing robust and error-tolerant code.
